@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii, My name is Armaan Khan<br>I’m exploring the basics of building user interfaces for iOS apps using Swift and SwiftUI.<br><br>What I'm learning<br>SwiftUI views and layout<br><br>Buttons, Text, and other basic components<br><br>Navigation and view transitions<br><br>State management in SwiftUI<br><br>Why I'm doing this<br>I want to build beautiful iOS apps and understand modern Swift development.<br><br>How it's organized<br>Each folder or file represents a different topic or mini project I'm working on.
+Hii, My name is Armaan Khan<br>I’m exploring the basics of building user interfaces for iOS apps using Swift and SwiftUI.<br><br>Why I'm doing this<br>I want to build beautiful iOS apps and understand modern Swift development.<br><br>How it's organized<br>Each folder or file represents a different topic or mini project I'm working on.
 
 
 ## 🌐 Socials:
