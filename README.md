@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Armaan Khan
+Hi there 👋, my name is Armaan Khan
+<hr/>
+
 - 👀 I’m interested in coding and programming 
 - 🌱 I’m currently learning swift
 
