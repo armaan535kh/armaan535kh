@@ -1,21 +1,26 @@
-# 💫 About Me:
-Hii, My name is Armaan Khan<br>I’m exploring the basics of building user interfaces for iOS apps using Swift and SwiftUI.<br><br>Why I'm doing this<br>I want to build beautiful iOS apps and understand modern Swift development.<br><br>How it's organized<br>Each folder or file represents a different topic or mini project I'm working on.
+<h1 align="center">Hi 👋, I'm Armaan Khan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armaan535kh&label=Profile%20views&color=0e75b6&style=flat" alt="armaan535kh" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan535kh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@armaan535_kh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kh.armaan535@gmail.com) 
+<p align="left"> <a href="https://twitter.com/armaan535kh" target="blank"><img src="https://img.shields.io/twitter/follow/armaan535kh?logo=twitter&style=for-the-badge" alt="armaan535kh" /></a> </p>
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- 🌱 I’m currently learning **Swift UI**
 
+- 📫 How to reach me **kh.armaan535@gmail.com**
 
+- ⚡ Fun fact **I love coffee**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/armaan535kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armaan535kh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/armaan535kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armaan535kh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/armaan535kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="armaan535kh" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armaan535kh&show_icons=true&locale=en&layout=compact" alt="armaan535kh" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=armaan535kh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armaan535kh&" alt="armaan535kh" /></p>
